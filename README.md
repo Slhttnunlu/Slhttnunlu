@@ -1,7 +1,7 @@
 <p align=center>
 <br>
 <br>
-<samp>Hello there. I am Selahattin.</a> <br><br> Junior Cloud|DevOps Engineer<br><br></samp>
+<samp>Hello there. I am Selahattin.</a> <br><br> Cloud|DevOps Engineer<br><br></samp>
 <br>
 <br>
 <img src="https://github.com/Slhttnunlu/Slhttnunlu/blob/main/giphy.gif" width="350" />
