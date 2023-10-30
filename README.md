@@ -5,9 +5,7 @@
 </p>
 
 - 🔭 Cloud computing is my passion, DevOps is my realm
-
 - 🌱 Currently practicing **AWS & DevOps**
-
 - ⚡ I especially like to use kubernetes and docer technologies  && I like to benefit from and cooperate with IT connoisseurs
 
 <p align=center><samp>📫 How to reach me: <a href="selahattinunlu@hotmail.com">mail</a> | <a href="https://www.linkedin.com/in/selahattin-unlu/" target="_blank">linkedin</a> | <a href="https://slhttnunlu.github.io" target="_blank">github.io</a></samp></p>
