@@ -3,7 +3,6 @@
 <samp>Hello there. I am Selahattin.</a> <br> Cloud | DevOps Engineer<br><br></samp>
 <!-- <img src="https://github.com/Slhttnunlu/Slhttnunlu/blob/main/giphy.gif" width="350" /> -->
 </p>
-  
 - 🔭 Cloud computing is my passion, DevOps is my realm
 - 🌱 Currently practicing **AWS & DevOps**
 - ⚡ I especially like to use kubernetes and docer technologies  && I like to benefit from and cooperate with IT connoisseurs
