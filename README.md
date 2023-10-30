@@ -17,6 +17,18 @@
 ## CERTIFICATIONS
 <a href='https://www.credly.com/badges/9454c1fe-6110-4cc6-ad0b-fc7399320405'><img src='https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png' width='100' heigh='100'></a>
 
+## DevOps Projects
+
+|  Name                  |                                                    Description                                                                       |
+| ----------------------- | :---------------------------------------------------------------------------------------------------------------------------------------: |
+|Project-201             |[Phonebook Application (Python Flask) deployed on AWS Application Load Balancer with Auto Scaling and Relational Database Service using Terraform](https://github.com/Slhttnunlu/phonebook-app-with-terraform)|
+|Project-T01             |[AWS Rout53 Failover Project using Terraform](https://github.com/Slhttnunlu/aws-failover-routing-with-terraform)|
+|Project-202             |[Dockerization of Bookstore Web API (Python Flask) with MySQL](https://github.com/Slhttnunlu/bookstore-api-in-docker)|
+|Project-203             |[Microservice Architecture for Phonebook Web Application (Python Flask) with MySQL using Kubernetes](https://github.com/Slhttnunlu/k8s-projects-with-two-microservises)|
+|Project-204             |[Web Page Application (Postgresql-Nodejs-React) deployed on EC2's with Ansible and Docker](https://github.com/Slhttnunlu/ansible-project-react-nodejs-postgre)|
+|Project-205             |[Jenkins Pipeline for Web Page Application (Postgresql-Nodejs-React) deployed on EC2's with Ansible and Docker](https://github.com/Slhttnunlu/cw-todo-app)|
+
+
 ## AWS Projects
 
 | Name                  |                                                                                              Description                                                                                              |
@@ -29,13 +41,3 @@
 | Project-104           |           [Kittens Carousel Static Website deployed on AWS Cloudfront, S3 and Route 53 using Cloudformation](https://github.com/Yunus-Altay/Project-104-kittens-carousel-static-web-s3-cf)            |
 | Project-501           |                 [Capstone Project - Blog Page App (Django) on AWS Environment](https://github.com/Slhttnunlu/aws-django-app)                 |
 
-## DevOps Projects
-
-|  Name                  |                                                    Description                                                                       |
-| ----------------------- | :---------------------------------------------------------------------------------------------------------------------------------------: |
-|Project-201             |[Phonebook Application (Python Flask) deployed on AWS Application Load Balancer with Auto Scaling and Relational Database Service using Terraform](https://github.com/Slhttnunlu/phonebook-app-with-terraform)|
-|Project-T01             |[AWS Rout53 Failover Project using Terraform](https://github.com/Slhttnunlu/aws-failover-routing-with-terraform)|
-|Project-202             |[Dockerization of Bookstore Web API (Python Flask) with MySQL](https://github.com/Slhttnunlu/bookstore-api-in-docker)|
-|Project-203             |[Microservice Architecture for Phonebook Web Application (Python Flask) with MySQL using Kubernetes](https://github.com/Slhttnunlu/k8s-projects-with-two-microservises)|
-|Project-204             |[Web Page Application (Postgresql-Nodejs-React) deployed on EC2's with Ansible and Docker](https://github.com/Slhttnunlu/ansible-project-react-nodejs-postgre)|
-|Project-205             |[Jenkins Pipeline for Web Page Application (Postgresql-Nodejs-React) deployed on EC2's with Ansible and Docker](https://github.com/Slhttnunlu/cw-todo-app)|
