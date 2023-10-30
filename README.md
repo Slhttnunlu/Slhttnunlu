@@ -5,7 +5,7 @@
 <!-- <img src="https://github.com/Slhttnunlu/Slhttnunlu/blob/main/giphy.gif" width="350" /> -->
 </p>
 <br>
-<p align=center><samp>📫 How to reach me:<a href="selahattinunlu@hotmail.com">mail</a> | <a href="https://www.linkedin.com/in/selahattin-unlu/" target="_blank">linkedin</a><a href="https://slhttnunlu.github.io" target="_blank">github.io</a></samp></p>
+<p align=center><samp>📫 How to reach me:<a href="selahattinunlu@hotmail.com">mail</a> | <a href="https://www.linkedin.com/in/selahattin-unlu/" target="_blank">linkedin</a> | <a href="https://slhttnunlu.github.io" target="_blank">github.io</a></samp></p>
 
 
 - 🔭 Currently practicing **AWS & DevOps**
