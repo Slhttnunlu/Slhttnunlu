@@ -1,11 +1,10 @@
 <p align=center>
 <br>
-<samp>Hello there. I am Selahattin.</a> <br><br> Cloud|DevOps Engineer<br><br></samp>
+<samp>Hello there. I am Selahattin.</a> <br><br> Cloud | DevOps Engineer<br><br></samp>
 <!-- <img src="https://github.com/Slhttnunlu/Slhttnunlu/blob/main/giphy.gif" width="350" /> -->
 </p>
 - 🔭 Currently practicing **AWS & DevOps**
 - 🌱 Cloud computing is my passion, DevOps is my realm
-- 💬 Dedicated to learn new programming languages, apps, tools and libraries in software development
 - ⚡ A personality who seeks to push beyond boundaries to realize his dreams and explore the future  && I like to benefit from and cooperate with IT connoisseurs
 
 <p align=center><samp>📫 How to reach me: <a href="selahattinunlu@hotmail.com">mail</a> | <a href="https://www.linkedin.com/in/selahattin-unlu/" target="_blank">linkedin</a> | <a href="https://slhttnunlu.github.io" target="_blank">github.io</a></samp></p>
