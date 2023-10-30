@@ -24,8 +24,8 @@
 
 
 ## CERTIFICATIONS
-![](https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png | width=100)
-[![SAA Badge](https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/9454c1fe-6110-4cc6-ad0b-fc7399320405)
+![](https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png =250x250)
+[![SAA Badge](https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png =50x50)](https://www.credly.com/badges/9454c1fe-6110-4cc6-ad0b-fc7399320405)
 
 </a>
 
