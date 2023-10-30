@@ -5,7 +5,7 @@
 <!-- <img src="https://github.com/Slhttnunlu/Slhttnunlu/blob/main/giphy.gif" width="350" /> -->
 </p>
 <br>
-<p align=center><samp>📫 How to reach me:<a href="selahattinunlu@hotmail.com">mail</a> | <a href="https://www.linkedin.com/in/selahattin-unlu/" target="_blank">linkedin</a> | <a href="https://slhttnunlu.github.io" target="_blank">github.io</a></samp></p>
+<p align=center><samp>📫 How to reach me: <a href="selahattinunlu@hotmail.com">mail</a> | <a href="https://www.linkedin.com/in/selahattin-unlu/" target="_blank">linkedin</a> | <a href="https://slhttnunlu.github.io" target="_blank">github.io</a></samp></p>
 
 
 - 🔭 Currently practicing **AWS & DevOps**
@@ -13,14 +13,8 @@
 - 💬 Dedicated to learn new programming languages, apps, tools and libraries in software development
 - ⚡ A personality who seeks to push beyond boundaries to realize his dreams and explore the future  && I like to benefit from and cooperate with IT connoisseurs
 
-[<img align="left" alt="MAIL" width="30px" src="./images/Gmail.svg.png" style="padding-right:10px;" />](mailto:selahattin0unlu@gmail.com)
-
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-757575?style=flat-quare&labelColor=757575&logo=Linkedin&logoColor=white&link=link)](https://www.linkedin.com/in/selahattin-unlu/)
-
 <hr>
-
 ## SKILLS & TOOLS
-
 
 
 ## CERTIFICATIONS
