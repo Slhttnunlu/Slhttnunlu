@@ -1,10 +1,8 @@
 <p align=center>
 <br>
 <samp>Hello there. I am Selahattin.</a> <br><br> Cloud|DevOps Engineer<br><br></samp>
-<br>
 <!-- <img src="https://github.com/Slhttnunlu/Slhttnunlu/blob/main/giphy.gif" width="350" /> -->
 </p>
-<br>
 - 🔭 Currently practicing **AWS & DevOps**
 - 🌱 Cloud computing is my passion, DevOps is my realm
 - 💬 Dedicated to learn new programming languages, apps, tools and libraries in software development
