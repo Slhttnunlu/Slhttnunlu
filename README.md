@@ -1,6 +1,6 @@
 <p align=center>
 <br>
-<samp>Hello there. I am Selahattin.</a> <br><br> Cloud | DevOps Engineer<br><br></samp>
+<samp>Hello there. I am Selahattin.</a> <br> Cloud | DevOps Engineer<br><br></samp>
 <!-- <img src="https://github.com/Slhttnunlu/Slhttnunlu/blob/main/giphy.gif" width="350" /> -->
 </p>
   
