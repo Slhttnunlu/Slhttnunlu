@@ -4,7 +4,9 @@
 <!-- <img src="https://github.com/Slhttnunlu/Slhttnunlu/blob/main/giphy.gif" width="350" /> -->
 </p>
 - 🔭 I’m currently working on AWS & DevOps
+
 - 🌱 I am eager to learn cloud computing and devops tools
+
 - ⚡ I especially like to use kubernetes and jenkins tools
 
 <p align=center><samp>📫 How to reach me: <a href="selahattinunlu@hotmail.com">mail</a> | <a href="https://www.linkedin.com/in/selahattin-unlu/" target="_blank">linkedin</a> | <a href="https://slhttnunlu.github.io" target="_blank">github.io</a></samp></p>
