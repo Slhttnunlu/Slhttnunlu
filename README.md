@@ -1,5 +1,5 @@
 <p align=center>
-<samp>Hello there. I am Selahattin.</a> <br> Welcome🦸‍♂️<br></samp>
+<samp>Hello there. I'm Selahattin.</a> <br> Welcome 🦸‍♂️<br></samp>
 <!-- <img src="https://github.com/Slhttnunlu/Slhttnunlu/blob/main/giphy.gif" width="350" /> -->
 </p>
 
