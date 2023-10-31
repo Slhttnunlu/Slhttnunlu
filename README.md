@@ -33,11 +33,11 @@
 
 | Name                  |                                                                                              Description                                                                                              |
 | --------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Flask-Web-Application |                                     [Handling Routes, Templates, Forms and SQL with Flask Web Application](https://github.com/Yunus-Altay/Flask-Web-Application)                                      |
-| CFN-Web-App-HandsOn   |                            [deploying an application environment consisting of ASGw/ELB in AWS with configuration parameters](https://github.com/Yunus-Altay/CFN-ASG-ALB)                             |
-| Project-101           |                      [Kittens Carousel Static Website deployed on AWS EC2 using Cloudformation](https://github.com/Yunus-Altay/Project-101-kittens-carousel-static-website-ec2)                       |
-| Project-102           |            [Roman Numerals Converter Application (Python Flask) deployed on AWS EC2 with Cloudformation and AWS CLI](https://github.com/Yunus-Altay/Project-102-Roman-Numerals-Converter)             |
-| Project-103           | [Phonebook Application (Python Flask) deployed on AWS Application Load Balancer with Auto Scaling and RDS using AWS Cloudformation](https://github.com/Yunus-Altay/Project-103-Phonebook-Application) |
-| Project-104           |           [Kittens Carousel Static Website deployed on AWS Cloudfront, S3 and Route 53 using Cloudformation](https://github.com/Yunus-Altay/Project-104-kittens-carousel-static-web-s3-cf)            |
+| Flask-Web-Application |                                     [Handling Routes, Templates, Forms and SQL with Flask Web Application](http)                                      |
+| CFN-Web-App-HandsOn   |                            [deploying an application environment consisting of ASGw/ELB in AWS with configuration parameters](http)                             |
+| Project-101           |                      [Kittens Carousel Static Website deployed on AWS EC2 using Cloudformation](http)                       |
+| Project-102           |            [Roman Numerals Converter Application (Python Flask) deployed on AWS EC2 with Cloudformation and AWS CLI](http)             |
+| Project-103           | [Phonebook Application (Python Flask) deployed on AWS Application Load Balancer with Auto Scaling and RDS using AWS Cloudformation](http) |
+| Project-104           |           [Kittens Carousel Static Website deployed on AWS Cloudfront, S3 and Route 53 using Cloudformation](http)            |
 | Project-501           |                 [Capstone Project - Blog Page App (Django) on AWS Environment](https://github.com/Slhttnunlu/aws-django-app)                 |
 
