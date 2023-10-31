@@ -14,7 +14,7 @@
 <hr>
 
 ## CERTIFICATIONS
-<a href='https://www.credly.com/badges/9454c1fe-6110-4cc6-ad0b-fc7399320405'><img src='https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png' width='100' heigh='100'></a>
+<a href='https://www.credly.com/badges/9454c1fe-6110-4cc6-ad0b-fc7399320405'><img src='https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png' width='78' heigh='78'></a>
 
 ## DevOps Projects
 
