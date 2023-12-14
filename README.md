@@ -15,7 +15,7 @@
 
 ## CERTIFICATIONS
 <a href='https://www.credly.com/badges/9454c1fe-6110-4cc6-ad0b-fc7399320405'><img src='https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png' width='78' heigh='78'></a>
-<a href='https://www.credly.com/badges/9454c1fe-6110-4cc6-ad0b-fc7399320405'><img src='https://images.credly.com/size/340x340/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png' width='78' heigh='78'></a>
+<a href='https://www.credly.com/badges/449115e8-7396-476a-8c14-098cf1e8027c'><img src='https://images.credly.com/size/340x340/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png' width='78' heigh='78'></a>
 
 ## DevOps Projects
 
