@@ -1,9 +1,7 @@
 <p align=center>
-<samp>Hello there. I'm Selahattin.</a> <br> Welcome 🦸‍♂️<br></samp>
+<samp>Hello there. I'm Selahattin. Welcome 🦸‍♂️ </a> <br> 🔭 I’m currently working on AWS & DevOps<br></samp>
 <!-- <img src="https://github.com/Slhttnunlu/Slhttnunlu/blob/main/giphy.gif" width="350" /> -->
 </p>
-
-- 🔭 I’m currently working on AWS & DevOps
 
 <p align=center><samp>📫 How to reach me: <a href="selahattinunlu@hotmail.com">mail</a> | <a href="https://www.linkedin.com/in/selahattin-unlu/" target="_blank">linkedin</a> | <a href="https://slhttnunlu.github.io" target="_blank">github.io</a></samp></p>
 
