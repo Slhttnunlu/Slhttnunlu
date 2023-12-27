@@ -15,7 +15,7 @@
 
 |  Name                  |                                                    Description                                                                       |
 | ----------------------- | :---------------------------------------------------------------------------------------------------------------------------------------: |
-|Project-505             |[CI/CD Capstone Project with Jenkins and Microservices](https://github.com/Slhttnunlu/petclinic-microservices1)|
+|Project-505             |[Java(Spring Boot) Microservices Project](https://github.com/Slhttnunlu/petclinic-microservices1)|
 |Project-201             |[Phonebook Application (Python Flask) deployed on AWS Application Load Balancer with Auto Scaling and Relational Database Service using Terraform](https://github.com/Slhttnunlu/phonebook-app-with-terraform)|
 |Project-T01             |[AWS Rout53 Failover Project using Terraform](https://github.com/Slhttnunlu/aws-failover-routing-with-terraform)|
 |Project-202             |[Dockerization of Bookstore Web API (Python Flask) with MySQL](https://github.com/Slhttnunlu/bookstore-api-in-docker)|
