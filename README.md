@@ -3,7 +3,7 @@
 <!-- <img src="https://github.com/Slhttnunlu/Slhttnunlu/blob/main/giphy.gif" width="350" /> -->
 </p>
 
-<p align=center><samp>📫 How to reach me: <a href="selahattinunlu@hotmail.com">mail</a> | <a href="https://www.linkedin.com/in/selahattin-unlu/" target="_blank">linkedin</a> | <a href="http://slhttnunlu.net/" target="_blank">web-resume</a></samp></p>
+<p align=center><samp>📫 How to reach me: <a href="selahattinunlu@hotmail.com">mail</a> | <a href="https://www.linkedin.com/in/selahattin-unlu/" target="_blank">linkedin</a> </samp></p>
 
 <hr>
 
